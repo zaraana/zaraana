@@ -1,7 +1,7 @@
 <!-- Headers -->
 # About Me
 
-## Hello, dear Ladies and Gentleman :wave:
+## Hi there  :wave:
 
 <!-- Blockquotes -->
 >My name is Zahra / :rose: زهرة  
@@ -51,7 +51,7 @@ This world simply amazes me and makes me feel free to use my *imagination* and d
 That's the reason why ever since I discovered Web development domain , I completely fell in love with it :heart.
 
 I believe that it's always good to learn some new *_expertises_*, which, in my opinion, adds a plus to someone's personality and an intellectual background growth from each experience.
-I love to, always, leave my personal touch everything that I touch or do :smile:
+I love to, always, leave my personal touch on everything that I do :smile:
 
 <!-- Task Lists -->
 Once i decided to learn how to code I immediately started to self-study at home, up to now  i have already completed many sections and got some certificates:
