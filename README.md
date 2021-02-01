@@ -64,7 +64,6 @@ Once i decided to learn how to code I immediately started to self-study at home,
 [![zaraana's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaraana)](https://github.com/zaraanagithub-readme-stats)
 
 <!-- Tables -->
-The Sites that i have been using are very rich of informations and easy to understand :point_down::
 
    Connect with me:                    |  Link                               |
 |:------------------------------------:|------------------------------------|
