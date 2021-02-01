@@ -61,15 +61,17 @@ Once i decided to learn how to code I immediately started to self-study at home,
 - [ ] JavaScript
 - [x] Applied Visual Design
 
+[![zaraana's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaraana)](https://github.com/zaraanagithub-readme-stats)
+
 <!-- Tables -->
 The Sites that i have been using are very rich of informations and easy to understand :point_down::
 
-Web Site                           |  Link                               |
+   Connect with me:                    |  Link                               |
 |:------------------------------------:|------------------------------------|
-|  FreeCdeCamp                        |[https://www.freecodecamp.org/learn]( https://www.freecodecamp.org/learn/o"FreeCdeCamp")|
-|   SoloLearn                          |[https://www.sololearn.com/](https://www.sololearn.com/)|
+|   Facebook                           |[Zara Ana]( https://www.facebook.com/zara.anna.35/)|
+|   Instagram                          |[Zara Anna](https://www.instagram.com/zara_anna/)|
 
-Another useful source of informations is [Youtube](https://www.youtube.com/)
+
 
 
 ## Bye Bye :wave:
