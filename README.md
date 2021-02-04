@@ -1,5 +1,5 @@
 <!-- Headers -->
-![Zara's logo](https://github.com/zaraana/zaraana/blob/main/img/zara's%20logo.jpg)
+![Zara's logo](https://github.com/zaraana/zaraana/blob/main/img/zara's%20logo.gif)
 ---
 ## Hi there  :wave:
 
