@@ -1,6 +1,6 @@
 <!-- Headers -->
-
-
+![Zara's logo](https://github.com/zaraana/zaraana/blob/main/img/zara's%20logo.jpg)
+---
 ## Hi there  :wave:
 
 <!-- Blockquotes -->
@@ -40,8 +40,8 @@ Talking about :point_up:, i speak:
 <!-- Images -->
 My dream is to be able to visit  ***[Akihabara :jp:](https://en.wikipedia.org/wiki/Akihabara)*** and ***[Seoul :kr:](https://en.wikipedia.org/wiki/Seoul)***, one day :heart_eyes:
 
-![Akihabara/Japan](akihabara.png "秋葉原")
-![Seol/Korea](seoul.png "서울")
+![Akihabara/Japan](https://github.com/zaraana/zaraana/blob/main/img/akihabara.png "秋葉原")
+![Seol/Korea](https://github.com/zaraana/zaraana/blob/main/img/seoul.png "서울")
 
 <!-- Emphasis -->
 ## Why Web Developing :question:
