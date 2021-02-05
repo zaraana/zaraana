@@ -4,7 +4,7 @@
 ## Hi there  :wave:
 
 <!-- Blockquotes -->
->My name is Zahra / :rose: زهرة  
+>My name is Zahra /  زهرة :rose:      
 >I was born In Italy:it:  
 >I am 28 years old :libra:
 
