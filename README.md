@@ -61,7 +61,7 @@ Once i decided to learn how to code I immediately started to self-study at home,
 - [ ] JavaScript
 - [x] Applied Visual Design
 
-![zaraana's github stats](https://github-readme-stats.vercel.app/api?username=zaraana&show_icons=true&hide_border=true&theme=dracula)
+[![zaraana's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaraana)](https://github.com/zaraana/github-readme-stats)
 
 <!-- Tables -->
 
