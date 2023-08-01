@@ -62,7 +62,7 @@ Once i decided to learn how to code I immediately started to self-study at home,
 - [x] Applied Visual Design
 
 [![zaraana's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaraana)](https://github.com/zaraana/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaraana)](https://github.com/zaraana/github-readme-stats)
 <!-- Tables -->
 
    Connect with me:                    |  Link                               |
