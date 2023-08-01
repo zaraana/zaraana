@@ -67,8 +67,8 @@ Once i decided to learn how to code I immediately started to self-study at home,
 
    Connect with me:                    |  Link                               |
 |:------------------------------------:|------------------------------------|
-|   Facebook                           |[Zara Ana]( https://www.facebook.com/zara.anna.35/)|
-|   Instagram                          |[Zara Anna](https://www.instagram.com/zara_anna/)|
+|   Facebook                           |[Zara Ana](https://www.facebook.com/zara.anna.35/)|
+|   Instagram                          |[Zara Anna]([https://www.instagram.com/zara_anna/](https://www.instagram.com/zara_anna_kesh/))|
 
 
 
