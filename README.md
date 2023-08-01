@@ -78,7 +78,9 @@ Once i decided to learn how to code I immediately started to self-study at home,
 ### 안녕하세요
 
 #### さようなら
- وداعا   ###
+
+
+    
  
  
 
