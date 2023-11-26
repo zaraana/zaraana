@@ -44,7 +44,7 @@ My dream is to be able to visit  ***[Akihabara :jp:](https://en.wikipedia.org/wi
 ![Seol/Korea](https://github.com/zaraana/zaraana/blob/main/img/seoul.png "서울")
 
 <!-- Emphasis -->
-## Why Web Developing :question:
+## Why Web Development :question:
 
 Be a Web developer has become a __must have ablity__ for me, lately.
 This world simply amazes me and makes me feel free to use my *imagination* and design skills to create something :new:.
