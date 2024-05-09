@@ -174,7 +174,8 @@ ${lifeMotto.ちゃんげ}" and "${lifeMotto.こんち} ${lifeMotto.いんぷろ�
 ```
 𝙲𝚘𝚗𝚜𝚘𝚕𝚎:
 ```
-Hi, I'm a Junior Dev with a life motto: "Change for the better and contiguous improvement." Nice to meet you!
+Hi, I'm a Junior Dev with a life motto: "Change for the better and contiguous improvement."
+Nice to meet you!
 ```
 
 <br>
