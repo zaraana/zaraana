@@ -181,9 +181,9 @@ Hi, I'm a Junior Dev with a life motto: "Change for the better and contiguous im
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/logo1.png">
-  <source media="(prefers-color-scheme: light)" srcset="img/logo.png">
-    <img alt="changes logo based on theme mode" src="img/logo1.png">
+  <source width="25%" media="(prefers-color-scheme: dark)" srcset="img/logo1.png">
+  <source width="25%" media="(prefers-color-scheme: light)" srcset="img/logo.png">
+    <img align="right" alt="changes logo based on theme mode" src="img/logo1.png">
 </picture>
 
 
