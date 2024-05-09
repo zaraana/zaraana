@@ -117,7 +117,7 @@ Movies and Books :movie_camera:. <br>
 </div>
 
 <!-- Task Lists -->
-ɪ ᴀʟsᴏ ᴡʜᴀɴᴛ ᴛᴏ ᴅɪsᴄᴏʙᴇʀ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ: 
+ɪ ᴀʟsᴏ ᴡʜᴀɴᴛ ᴛᴏ ᴅɪsᴄᴏᴠᴇʀ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ: 
    
 - [ ] ᴅᴀᴛᴀʙᴀsᴇs
 
