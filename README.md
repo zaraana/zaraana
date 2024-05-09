@@ -179,13 +179,13 @@ Hi, I'm a Junior Dev with a life motto: "Change for the better and contiguous im
 
 <br>
 
-<img align="right" width="25%" alt="petals" src="img/logo1.png"></img>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/logo1.png">
   <source media="(prefers-color-scheme: light)" srcset="img/logo.png">
     <img alt="changes logo based on theme mode" src="img/logo1.png">
 </picture>
-</picture>
+
 
  
  
