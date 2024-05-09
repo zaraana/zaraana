@@ -177,9 +177,9 @@ ${lifeMotto.ちゃんげ}" and "${lifeMotto.こんち} ${lifeMotto.いんぷろ�
 Hi, I'm a Junior Dev with a life motto: "Change for the better and contiguous improvement." Nice to meet you!
 ```
 
+<br>
 
-
-<img align="right" width="30%" alt="petals" src="img/logo1.png"></img>
+<img align="right" width="25%" alt="petals" src="img/logo1.png"></img>
 
 
     
