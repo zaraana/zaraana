@@ -22,7 +22,7 @@ const meWho? = {
 };
 ```
 
-<img align="left" width="40%" alt="petals" src="img/languages-removebg-preview.png"></img>
+<img align="left" width="45%" alt="petals" src="img/languages-removebg-preview.png"></img>
 <!-- Unordered and Ordered list -->
 ### 🅸 🆂🅿🅴🅰🅺
 
