@@ -164,13 +164,12 @@ Movies and Books :movie_camera:. <br>
 ``` 
 const lifeMotto = {
   かいぜん: 'Change for the better',
-  ちゃんげ: 'for the better',
   こんち: 'contiguous',
   いんぷろべめんと: 'improvement'
 };
 
-console.log(`Hi, I'm a Junior Dev with a life motto: "${lifeMotto.かいぜん}
-${lifeMotto.ちゃんげ}" and "${lifeMotto.こんち} ${lifeMotto.いんぷろべめんと}." Nice to meet you!`);
+console.log(`Hi, I'm a Junior Dev with a life motto: "${lifeMotto.かいぜん}" and "${lifeMotto.こんち} ${lifeMotto.いんぷろべめんと}.
+" Nice to meet you!`);
 ```
 𝙲𝚘𝚗𝚜𝚘𝚕𝚎:
 ```
