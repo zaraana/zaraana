@@ -22,7 +22,7 @@ const meWho? = {
 };
 ```
 
-<img align="left" width="45%" alt="petals" src="img/languages-removebg-preview.png"></img>
+<img align="left" width="49%" alt="petals" src="img/languages-removebg-preview.png"></img>
 <!-- Unordered and Ordered list -->
 ### 🅸 🆂🅿🅴🅰🅺
 
@@ -33,10 +33,11 @@ const meWho? = {
 1. 𝚂𝚙𝚊𝚗𝚒𝚜𝚑 𝙸𝚗𝚝𝚎𝚛𝚖𝚎𝚍𝚒𝚊𝚝𝚎;
 2. 𝙳𝚞𝚝𝚌𝚑 𝙱𝚊𝚜𝚒𝚌;
 
-   𝙰𝚗𝚍 𝚒 𝚊𝚖  𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐:
-    * 𝙺𝚘𝚛𝚎𝚊𝚗;
-    * 𝙹𝚊𝚙𝚊𝚗𝚎𝚜𝚎;
-    * 𝚃𝚞𝚛𝚔𝚒𝚜𝚑;
+  𝙰𝚗𝚍 𝚒 𝚊𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 :
+  
+     - 𝙺𝚘𝚛𝚎𝚊𝚗;
+     - 𝙹𝚊𝚙𝚊𝚗𝚎𝚜𝚎;
+     - 𝚃𝚞𝚛𝚔𝚒𝚜𝚑;
 <br>
 <br>
 
@@ -124,6 +125,7 @@ Movies and Books :movie_camera:. <br>
 - [ ] ᴇxᴘʟᴏʀᴇ sᴇʀᴠᴇʀ-sɪᴅᴇ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇs
 
 - [ ] ᴇxᴘʟᴏʀᴇ ғʀᴀᴍᴇᴡᴏʀᴋs ʟɪᴋᴇ ʀᴇᴀᴄᴛ, ᴀɴɢᴜʟᴀʀ, ᴏʀ ᴠᴜᴇ.ᴊs
+      
 
   ᴀɴᴅ sᴏ ᴏɴ....
 
@@ -149,7 +151,30 @@ Movies and Books :movie_camera:. <br>
 <br>
 <br>
 
+# 𝚄𝚜𝚎𝚍 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜
 
+<div align="center">
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png" alt="Vim" title="Vim"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" alt="yarn" title="yarn"/></code>
+	<code><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/></code>
+	<code><img width="40" src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Vite" title="Vite"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
+</div>
+
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaraana)](https://github.com/zaraana/github-readme-stats)
 [![zaraana's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaraana)](https://github.com/zaraana/github-readme-stats)
