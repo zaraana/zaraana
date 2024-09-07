@@ -1,11 +1,10 @@
 <!-- Headers -->
 ![Zara's header](img/header.gif)
-
 <br>
  
   <div align="center"> 
-     𝙷𝚒 𝙸 𝚊𝚖  𝚉𝚊𝚑𝚛𝚊 /  زهرة 🌹
-   
+   <img src="https://readme-typing-svg.herokuapp.com/?color=007acc&size=35&center=true&weight=700&size=40&pause=1500&&vCenter=true&width=1000&lines=𝙷𝚒,+𝙸+𝚊𝚖+𝚉𝚊𝚑𝚛𝚊🌹;𝙸'𝚖+𝚊+𝙵𝚞𝚕𝚕+𝚂𝚝𝚊𝚌𝚔+𝚆𝚎𝚋+𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛;">
+
    <!-- Code Blocks -->
 ```ᴍʏ ɴᴀᴍᴇ--> ᴍᴇᴀɴs ғʟᴏᴡᴇʀ, ʀᴏsᴇ ɪɴ ᴀʀᴀʙɪᴄ```
 </div>
@@ -88,6 +87,7 @@ Movies and Books :movie_camera:. <br>
 <div align="center">  
    
 <!--  <img align="left" width="15%" alt="jp" src="img/jpflag.jpg"></img> -->
+<img src="your-image-url.jpg" style="border-radius: 10px;" />
    ![Akihabara/Japan](https://github.com/zaraana/zaraana/blob/main/img/akihabara.png "秋葉原")
 
 </div>
