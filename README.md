@@ -85,26 +85,8 @@ const meWho? = {
 
 <br>
 
-# 🗂️ 𝐂𝐡𝐞𝐜𝐤 𝐦𝐲 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬
 
-   <div align="center">
-	   
-   <!-- Tables -->
-   𝙼𝚢 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜                         |   𝚕𝚒𝚗𝚔𝚜                              |
-|:------------------------------------:|------------------------------------|
-|         𝚅-𝙲𝚊𝚛𝚍                      |[🪪](https://github.com/zaraana/V-Card)|
-|        𝚃𝚑𝚎 𝙲𝚘𝚕𝚕𝚎𝚌𝚝𝚒𝚘𝚗               |[🎬](https://github.com/zaraana/The-Collection)|
-|         𝚃𝚑𝚎 𝚃𝚘-𝙳𝚘-𝙻𝚒𝚜𝚝              |[📝](https://github.com/zaraana/The-To-Do-List)|
-|          𝚃𝚑𝚎 𝚆𝚎𝚊𝚝𝚑𝚎𝚛 𝙰𝚙𝚙               |   [🌧](https://github.com/zaraana/The-Weather-App)       |              
-|           𝚃𝚑𝚎 𝙼𝚘𝚟𝚒𝚎-𝙱𝚛𝚘𝚠𝚜𝚎𝚛              |     [📽️](https://github.com/zaraana/Movie-Browser)         |              
-|             𝙼𝚢 𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘             |        [🪪](https://github.com/zaraana/Portfolio)    |      
- |         React To-do-List         |       [🗓️](https://github.com/zaraana/React-Practice)         | 
-|               𝚃𝚑𝚎 𝙵𝚒𝚗𝚊𝚗𝚌𝚒𝚊𝚕 𝚃𝚛𝚊𝚌𝚔𝚎𝚛  |   [📈](https://github.com/zaraana/The-Financial-Tracker)      |    
-  
-</div>
-<br>
-
-# 📇 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+ #  📇 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 <img align="left" width="49%" alt="petals" src="img/languages-removebg-preview.png"></img>
 <!-- Unordered and Ordered list -->
@@ -186,7 +168,23 @@ Movies and Books :movie_camera:. <br>
 <br>
 
 
+# 🗂️ Check my Projects
 
+   <div align="center">
+	   
+   <!-- Tables -->
+   𝙼𝚢 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜                         |   𝚕𝚒𝚗𝚔𝚜                              |
+|:------------------------------------:|------------------------------------|
+|         𝚅-𝙲𝚊𝚛𝚍                      |[🪪](https://github.com/zaraana/V-Card)|
+|        𝚃𝚑𝚎 𝙲𝚘𝚕𝚕𝚎𝚌𝚝𝚒𝚘𝚗               |[🎬](https://github.com/zaraana/The-Collection)|
+|         𝚃𝚑𝚎 𝚃𝚘-𝙳𝚘-𝙻𝚒𝚜𝚝              |[📝](https://github.com/zaraana/The-To-Do-List)|
+|          𝚃𝚑𝚎 𝚆𝚎𝚊𝚝𝚑𝚎𝚛 𝙰𝚙𝚙               |   [🌧](https://github.com/zaraana/The-Weather-App)       |              
+|           𝚃𝚑𝚎 𝙼𝚘𝚟𝚒𝚎-𝙱𝚛𝚘𝚠𝚜𝚎𝚛              |     [📽️](https://github.com/zaraana/Movie-Browser)         |              
+|             𝙼𝚢 𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘             |        [🪪](https://github.com/zaraana/Portfolio)    |      
+ |         React To-do-List         |       [🗓️](https://github.com/zaraana/React-Practice)         | 
+|               𝚃𝚑𝚎 𝙵𝚒𝚗𝚊𝚗𝚌𝚒𝚊𝚕 𝚃𝚛𝚊𝚌𝚔𝚎𝚛  |   [📈](https://github.com/zaraana/The-Financial-Tracker)      |    
+  
+</div>
 
 <br>
 
@@ -200,7 +198,7 @@ Movies and Books :movie_camera:. <br>
 [![zaraana's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaraana)](https://github.com/zaraana/github-readme-stats)
 
 </div>
-
+<br>
 
 # 💪  𝙼𝚢 𝚖𝚘𝚝𝚝𝚘
 
